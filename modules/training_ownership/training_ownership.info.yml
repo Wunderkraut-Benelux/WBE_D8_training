@@ -1,0 +1,5 @@
+name: D8 Training - Ownership
+type: module
+description: 'Site Ownership functionality.'
+core: 8.x
+package: D8 Training

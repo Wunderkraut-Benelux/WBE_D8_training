@@ -1,0 +1,7 @@
+innovation.ownership:
+  path: '/ownership'
+  defaults:
+    _form: '\Drupal\training_ownership\Form\OwnershipInformationForm'
+    _title: 'Ownership settings'
+  requirements:
+    _permission: 'administer site configuration'
